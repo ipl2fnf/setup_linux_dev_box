@@ -11,4 +11,13 @@ echo "alias l='ls -lrt'" >> ~/.bashrc
 sudo apt-get install htop
 sudo apt-get install linux-headers-$(uname -r)
 
+apt-get install python-dev python-pip
+sudo pip install Django
+sudo pip install django-tastypie
 sudo apt-get install sqlite3
+sudo apt-get install postgresql postgresql-contrib
+sudo apt-get install postgresql-client
+sudo apt-get install pgadmin3
+
+
+

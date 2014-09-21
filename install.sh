@@ -10,3 +10,5 @@ sudo apt-get install vim
 echo "alias l='ls -lrt'" >> ~/.bashrc
 sudo apt-get install htop
 sudo apt-get install linux-headers-$(uname -r)
+
+sudo apt-get install sqlite3

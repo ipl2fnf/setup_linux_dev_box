@@ -7,3 +7,4 @@ sudo apt-get install cmake
 sudo apt-get install gnome-devel
 sudo apt-get install flashplugin-installer
 sudo apt-get install vim
+echo "alias l='ls -lrt'" >> ~/.bashrc
